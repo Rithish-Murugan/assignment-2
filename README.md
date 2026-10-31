@@ -1,4 +1,4 @@
-ASSIGNMENT - 2
+ PYTHON ASSIGNMENT - 2
 
 Student Name: Rithish M
 Department: Artificial Intelligence and Data Science (AI & DS)
