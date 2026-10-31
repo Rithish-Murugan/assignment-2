@@ -9,25 +9,31 @@ This repository contains my programming assignment, which includes 7 tasks. Each
 
 Tasks
 Task 1
-- Program Code
+- Program Code &
 - Output Screenshot
+  
 Task 2
-- Program Code
+- Program Code &
 - Output Screenshot
+  
 Task 3
-- Program Code
-- Output Screenshot
+- Program Code &
+-Output Screenshot
+
 Task 4
-- Program Code
+- Program Code &
 - Output Screenshot
+  
 Task 5
-- Program Code
+- Program Code &
 - Output Screenshot
+  
 Task 6
-- Program Code
+- Program Code &
 - Output Screenshot
+  
 Task 7
-- Program Code
+- Program Code &
 - Output Screenshot
 
 Conclusion
